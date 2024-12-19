@@ -1,0 +1,272 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MIA POS Payment Gateway for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-29 05:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: mia-pos-payment-gateway-for-woocommerce"
+
+#. Description of the plugin
+msgid ""
+"Accept payments in your WooCommerce store using MIA POS payment gateway."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:177
+msgid "Add these URLs to your MIA POS merchant cabinet"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:139
+msgid "API Base URL"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:195
+msgid "Callback URL"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:301
+#, php-format
+msgid "Currency %s is not supported. Supported currencies: %s"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:167
+msgid "Debug mode"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:689
+msgid "Default status"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:104
+msgid "Description"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:169
+msgid "Enable logging"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:93
+msgid "Enable MIA POS Payment"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:113
+msgid "Enable Test Mode"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:91
+msgid "Enable/Disable"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:175
+msgid "Endpoint URLs"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:163
+msgid "English"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:141
+msgid "Enter MIA POS API base URL."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:120
+msgid "Enter your Merchant ID provided by MIA POS."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:127
+msgid "Enter your Secret Key provided by MIA POS."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:134
+msgid "Enter your Terminal ID provided by MIA POS."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:188
+msgid "Fail URL"
+msgstr ""
+
+#. Author of the plugin
+msgid "Finergy Tech"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://finergy.md/"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:156
+msgid "Language"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:118
+msgid "Merchant ID"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:100
+msgid "MIA POS Payment"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:622 class-mia-pos-payment-gateway.php:645
+#, php-format
+msgid "MIA POS payment details: %s, source (%s)"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:352
+#, php-format
+msgid "MIA POS payment failed: %s"
+msgstr ""
+
+#. Name of the plugin
+msgid "MIA POS Payment Gateway for WooCommerce"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:253
+msgid "MIA POS Payment Gateway is not properly configured."
+msgstr ""
+
+#: mia-pos-payment-gateway-for-woocommerce.php:92
+#, php-format
+msgid ""
+"MIA POS Payment Gateway requires WooCommerce to be installed and active. You "
+"can download %s here."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:325
+#, php-format
+msgid "MIA POS payment initiated. Payment ID: %s, Amount: %s %s"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:594
+#, php-format
+msgid "Order #%1$s payment verification failed %2$s."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:539
+msgid "Order not found."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:202
+msgid "Order status"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:220
+msgid "Order status when payment failed. By default: Failed."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:107
+msgid "Pay securely using MIA POS payment system."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:501
+msgid "Pay with MIA POS"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:207
+msgid "Payment completed"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:358
+msgid "Payment error:"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:216
+msgid "Payment failed"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:106
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:146
+msgid "Payment Type"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:530
+msgid "Payment verification failed."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:115
+msgid "Place the payment gateway in test mode."
+msgstr ""
+
+#: mia-pos-payment-gateway-for-woocommerce.php:134
+msgid "Please install and activate WooCommerce before activating this plugin."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:151
+msgid "QR Payment"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:152
+msgid "Request to Pay"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:161
+msgid "Romanian"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:162
+msgid "Russian"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:171
+msgid "Save debug messages to the WooCommerce System Status logs."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:125
+msgid "Secret Key"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:557
+msgid "Security check failed."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:158
+msgid "Select the default language for payment page."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:148
+msgid "Select the payment type."
+msgstr ""
+
+#: mia-pos-payment-gateway-for-woocommerce.php:106
+msgid "Settings"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:181
+msgid "Success URL"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:132
+msgid "Terminal ID"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:111
+msgid "Test mode"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:493
+msgid "TEST MODE ENABLED"
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:211
+msgid ""
+"The completed order status after successful payment. By default: Processing."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:99
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: class-mia-pos-payment-gateway.php:97
+msgid "Title"
+msgstr ""

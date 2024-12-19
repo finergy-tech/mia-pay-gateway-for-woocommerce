@@ -1,0 +1,65 @@
+.mia-pos-payment-form {
+    padding: 15px;
+    background: #f8f8f8;
+    border-radius: 4px;
+}
+
+.mia-pos-test-mode-notice {
+    background: #fff3cd;
+    color: #856404;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid #ffeeba;
+}
+
+.mia-pos-payment-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #0073aa;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.mia-pos-payment-button:hover {
+    background-color: #005177;
+}
+
+.mia-pos-payment-button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.mia-pos-payment-button.processing {
+    opacity: 0.7;
+}
+
+.mia-pos-payment-icon {
+    height: 24px;
+    margin-right: 10px;
+}
+
+.components-spinner {
+    margin-right: 8px;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .mia-pos-payment-button {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    
+    .mia-pos-payment-icon {
+        height: 20px;
+    }
+} 
