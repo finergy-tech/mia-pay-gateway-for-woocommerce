@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MIA POS Payment Gateway for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-29 05:36+0000\n"
+"PO-Revision-Date: 2024-11-29 05:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: mia-pos-payment-gateway-for-woocommerce"
+
+#. Description of the plugin
+msgid ""
+"Accept payments in your WooCommerce store using MIA POS payment gateway."
+msgstr ""
+"Acceptați plăți în magazinul dvs. WooCommerce utilizând gateway-ul de plată "
+"MIA POS."
+
+#: class-mia-pos-payment-gateway.php:177
+msgid "Add these URLs to your MIA POS merchant cabinet"
+msgstr "Adăugați aceste URL-uri în cabinetul de comerciant MIA POS."
+
+#: class-mia-pos-payment-gateway.php:139
+msgid "API Base URL"
+msgstr "URL de bază mia pos Ecomm"
+
+#: class-mia-pos-payment-gateway.php:195
+msgid "Callback URL"
+msgstr "URL de notificare (Callback URL)"
+
+#: class-mia-pos-payment-gateway.php:301
+#, php-format
+msgid "Currency %s is not supported. Supported currencies: %s"
+msgstr "Valuta %s nu este acceptată. Valute acceptate: %s"
+
+#: class-mia-pos-payment-gateway.php:167
+msgid "Debug mode"
+msgstr "Mod de depanare"
+
+#: class-mia-pos-payment-gateway.php:689
+msgid "Default status"
+msgstr "Status implicit"
+
+#: class-mia-pos-payment-gateway.php:104
+msgid "Description"
+msgstr "Descriere"
+
+#: class-mia-pos-payment-gateway.php:169
+msgid "Enable logging"
+msgstr "Activare înregistrare loguri"
+
+#: class-mia-pos-payment-gateway.php:93
+msgid "Enable MIA POS Payment"
+msgstr "Activare plată MIA POS"
+
+#: class-mia-pos-payment-gateway.php:113
+msgid "Enable Test Mode"
+msgstr "Activare Mod Test"
+
+#: class-mia-pos-payment-gateway.php:91
+msgid "Enable/Disable"
+msgstr "Activare/Dezactivare"
+
+#: class-mia-pos-payment-gateway.php:175
+msgid "Endpoint URLs"
+msgstr "URL-uri endpoint"
+
+#: class-mia-pos-payment-gateway.php:163
+msgid "English"
+msgstr "Engleză"
+
+#: class-mia-pos-payment-gateway.php:141
+msgid "Enter MIA POS API base URL."
+msgstr "Introduceți URL-ul de bază al API-ului MIA POS."
+
+#: class-mia-pos-payment-gateway.php:120
+msgid "Enter your Merchant ID provided by MIA POS."
+msgstr "Introduceți ID-ul de comerciant furnizat de MIA POS."
+
+#: class-mia-pos-payment-gateway.php:127
+msgid "Enter your Secret Key provided by MIA POS."
+msgstr "Introduceți cheia secretă furnizată de MIA POS."
+
+#: class-mia-pos-payment-gateway.php:134
+msgid "Enter your Terminal ID provided by MIA POS."
+msgstr "Introduceți ID-ul terminalului furnizat de MIA POS."
+
+#: class-mia-pos-payment-gateway.php:188
+msgid "Fail URL"
+msgstr "URL pentru eșuare"
+
+#. Author of the plugin
+msgid "Finergy Tech"
+msgstr "Finergy Tech"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://finergy.md/"
+msgstr "https://finergy.md/"
+
+#: class-mia-pos-payment-gateway.php:156
+msgid "Language"
+msgstr "Limbă"
+
+#: class-mia-pos-payment-gateway.php:118
+msgid "Merchant ID"
+msgstr "ID-ul comerciantului"
+
+#: class-mia-pos-payment-gateway.php:100
+msgid "MIA POS Payment"
+msgstr "Plată MIA POS"
+
+#: class-mia-pos-payment-gateway.php:622 class-mia-pos-payment-gateway.php:645
+#, php-format
+msgid "MIA POS payment details: %s, source (%s)"
+msgstr "Detalii plată MIA POS: %s, sursa (%s)"
+
+#: class-mia-pos-payment-gateway.php:352
+#, php-format
+msgid "MIA POS payment failed: %s"
+msgstr "Plata MIA POS a eșuat: %s"
+
+#. Name of the plugin
+msgid "MIA POS Payment Gateway for WooCommerce"
+msgstr "Gateway-ul de Plată MIA POS pentru WooCommerce"
+
+#: class-mia-pos-payment-gateway.php:253
+msgid "MIA POS Payment Gateway is not properly configured."
+msgstr "Gateway-ul de Plată MIA POS nu este configurat corect."
+
+#: mia-pos-payment-gateway-for-woocommerce.php:92
+#, php-format
+msgid ""
+"MIA POS Payment Gateway requires WooCommerce to be installed and active. You "
+"can download %s here."
+msgstr ""
+"Gateway-ul de Plată MIA POS necesită ca WooCommerce să fie instalat și activ."
+" Puteți descărca %s aici."
+
+#: class-mia-pos-payment-gateway.php:325
+#, php-format
+msgid "MIA POS payment initiated. Payment ID: %s, Amount: %s %s"
+msgstr "Plata MIA POS inițiată. ID-ul plății: %s, Sumă: %s %s"
+
+#: class-mia-pos-payment-gateway.php:594
+#, php-format
+msgid "Order #%1$s payment verification failed %2$s."
+msgstr "Verificarea plății pentru comanda #%1$s a eșuat %2$s."
+
+#: class-mia-pos-payment-gateway.php:539
+msgid "Order not found."
+msgstr "Comanda nu a fost găsită."
+
+#: class-mia-pos-payment-gateway.php:202
+msgid "Order status"
+msgstr "Statusul comenzii"
+
+#: class-mia-pos-payment-gateway.php:220
+msgid "Order status when payment failed. By default: Failed."
+msgstr "Statusul comenzii când plata a eșuat. Implicit: Eșuată."
+
+#: class-mia-pos-payment-gateway.php:107
+msgid "Pay securely using MIA POS payment system."
+msgstr "Plătiți în siguranță utilizând sistemul de plată MIA POS."
+
+#: class-mia-pos-payment-gateway.php:501
+msgid "Pay with MIA POS"
+msgstr "Plătiți cu MIA POS"
+
+#: class-mia-pos-payment-gateway.php:207
+msgid "Payment completed"
+msgstr "Plata finalizată"
+
+#: class-mia-pos-payment-gateway.php:358
+msgid "Payment error:"
+msgstr "Eroare de plată:"
+
+#: class-mia-pos-payment-gateway.php:216
+msgid "Payment failed"
+msgstr "Plata a eșuat"
+
+#: class-mia-pos-payment-gateway.php:106
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+"Descrierea metodei de plată pe care clientul o va vedea la finalizarea "
+"comenzii."
+
+#: class-mia-pos-payment-gateway.php:146
+msgid "Payment Type"
+msgstr "Tip de plată"
+
+#: class-mia-pos-payment-gateway.php:530
+msgid "Payment verification failed."
+msgstr "Verificarea plății a eșuat."
+
+#: class-mia-pos-payment-gateway.php:115
+msgid "Place the payment gateway in test mode."
+msgstr "Setați gateway-ul de plată în modul de testare."
+
+#: mia-pos-payment-gateway-for-woocommerce.php:134
+msgid "Please install and activate WooCommerce before activating this plugin."
+msgstr ""
+"Vă rugăm să instalați și să activați WooCommerce înainte de a activa acest "
+"plugin."
+
+#: class-mia-pos-payment-gateway.php:151
+msgid "QR Payment"
+msgstr "Plată QR"
+
+#: class-mia-pos-payment-gateway.php:152
+msgid "Request to Pay"
+msgstr "Cerere de plată"
+
+#: class-mia-pos-payment-gateway.php:161
+msgid "Romanian"
+msgstr "Română"
+
+#: class-mia-pos-payment-gateway.php:162
+msgid "Russian"
+msgstr "Rusă"
+
+#: class-mia-pos-payment-gateway.php:171
+msgid "Save debug messages to the WooCommerce System Status logs."
+msgstr ""
+"Salvați mesajele de depanare în jurnalele de stare ale sistemului "
+"WooCommerce."
+
+#: class-mia-pos-payment-gateway.php:125
+msgid "Secret Key"
+msgstr "Cheia secretă"
+
+#: class-mia-pos-payment-gateway.php:557
+msgid "Security check failed."
+msgstr "Verificarea de securitate a eșuat."
+
+#: class-mia-pos-payment-gateway.php:158
+msgid "Select the default language for payment page."
+msgstr "Selectați limba implicită pentru pagina de plată."
+
+#: class-mia-pos-payment-gateway.php:148
+msgid "Select the payment type."
+msgstr "Selectați tipul de plată."
+
+#: mia-pos-payment-gateway-for-woocommerce.php:106
+msgid "Settings"
+msgstr "Setări"
+
+#: class-mia-pos-payment-gateway.php:181
+msgid "Success URL"
+msgstr "URL pentru succes"
+
+#: class-mia-pos-payment-gateway.php:132
+msgid "Terminal ID"
+msgstr "ID-ul terminalului"
+
+#: class-mia-pos-payment-gateway.php:111
+msgid "Test mode"
+msgstr "Mod de testare"
+
+#: class-mia-pos-payment-gateway.php:493
+msgid "TEST MODE ENABLED"
+msgstr "MODUL DE TESTARE ACTIVAT"
+
+#: class-mia-pos-payment-gateway.php:211
+msgid ""
+"The completed order status after successful payment. By default: Processing."
+msgstr ""
+"Statusul comenzii finalizate după o plată reușită. Implicit: În procesare."
+
+#: class-mia-pos-payment-gateway.php:99
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+"Aceasta controlează titlul pe care utilizatorul îl vede în timpul "
+"finalizării comenzii."
+
+#: class-mia-pos-payment-gateway.php:97
+msgid "Title"
+msgstr "Titlu"
